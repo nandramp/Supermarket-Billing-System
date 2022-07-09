@@ -1,0 +1,4 @@
+ 1 chips 24 3
+ 2 Banana 10 10
+ 3 Apple 20 10
+ 4 Grapes 1 0
